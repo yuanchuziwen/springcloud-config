@@ -3,4 +3,4 @@ spring:
         name: dev
         
 config:
-    info: this is dev
+    info: this is dev222
